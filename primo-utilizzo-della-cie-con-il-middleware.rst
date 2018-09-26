@@ -15,7 +15,6 @@ posizionata sul lettore, premere OK.
 .. _section-1:
 
 |image0|
---------
 
 Viene richiesto di digitare il PIN. Procedere e premere OK.
 
