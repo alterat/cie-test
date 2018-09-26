@@ -11,7 +11,7 @@ configurazione aggiuntiva, come descritto nei paragrafi seguenti.
 
 .. toctree::
   :maxdepth: 3
-  :caption: Indice dei contenuti
+  :caption: Elenco dei browser
 
   accesso-ad-un-servizio-mediante-il-browser-e-la-cie/ms-internet-explorer-ms-edge-chrome-e-opera.rst
   accesso-ad-un-servizio-mediante-il-browser-e-la-cie/firefox.rst
