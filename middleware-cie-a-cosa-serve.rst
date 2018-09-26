@@ -1,4 +1,4 @@
-Middleware CIE – a cosa serve
+Middleware CIE: a cosa serve?
 =============================
 
 Il Middleware CIE è un software necessario per utilizzare la Carta di
