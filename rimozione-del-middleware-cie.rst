@@ -14,7 +14,7 @@ Confermare la rimozione
 |image1|
 
 Nel caso sia abilitato il Controllo Account Utente (UAC) varrà
-visualizzata la seguente schermata. Confermare cliccando su "Si".
+visualizzata la seguente schermata. Confermare cliccando su "Sì".
 
 |image2|
 

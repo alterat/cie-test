@@ -19,7 +19,7 @@ l'installazione.
 |image1|
 
 Nel caso sia abilitato il Controllo Account Utente (UAC) di Microsoft,
-verrà visualizzata la seguente schermata. È necessario cliccare su "SI":
+verrà visualizzata la seguente schermata. È necessario cliccare su "Sì":
 
 |image2|
 
