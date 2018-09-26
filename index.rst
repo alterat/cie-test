@@ -1,5 +1,5 @@
 ####################
-CIE 3.0 - Manuale d'uso del middleware CIE
+CIE 3.0: Manuale d'uso del middleware CIE
 ####################
 
 
