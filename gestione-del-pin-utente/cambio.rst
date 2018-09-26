@@ -38,7 +38,7 @@ In caso di blocco del PIN è necessario procedere allo sblocco tramite il
 PUK. Consultare il paragrafo "Sblocco_" per ulteriori dettagli in
 merito alla procedura di sblocco PIN.
 
-.. _Sblocco: sblocco.rst
+.. _Sblocco: sblocco.html
 .. |image0| image:: ../_img/image33.png
    :width: 2.42667in
    :height: 1.4in

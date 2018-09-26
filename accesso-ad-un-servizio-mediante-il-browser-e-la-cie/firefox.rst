@@ -80,8 +80,8 @@ PIN inserito per evitare il blocco accidentale della CIE.
 Consultare il paragrafo "Sblocco_" per ulteriori dettagli in merito
 alla procedura di sblocco PIN.
 
-.. _`Primo utilizzo della CIE con il Middleware`: ../primo-utilizzo-della-cie-con-il-middleware.rst
-.. _Sblocco: ../gestione-del-pin-utente/sblocco.rst
+.. _`Primo utilizzo della CIE con il Middleware`: ../primo-utilizzo-della-cie-con-il-middleware.html
+.. _Sblocco: ../gestione-del-pin-utente/sblocco.html
 .. |image0| image:: ../_img/image21.png
    :width: 3.33333in
    :height: 5.60417in

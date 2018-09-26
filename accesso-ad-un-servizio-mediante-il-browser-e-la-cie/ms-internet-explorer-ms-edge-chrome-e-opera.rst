@@ -51,8 +51,8 @@ destra.
 Consultare il paragrafo "Sblocco_" per ulteriori dettagli in merito
 alla procedura di sblocco PIN.
 
-.. _`Primo utilizzo della CIE con il Middleware`: ../primo-utilizzo-della-cie-con-il-middleware.rst
-.. _Sblocco: ../gestione-del-pin-utente/sblocco.rst
+.. _`Primo utilizzo della CIE con il Middleware`: ../primo-utilizzo-della-cie-con-il-middleware.html
+.. _Sblocco: ../gestione-del-pin-utente/sblocco.html
 .. |image0| image:: ../_img/image15.png
    :width: 5.28898in
    :height: 4.17391in
